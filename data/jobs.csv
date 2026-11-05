@@ -1,0 +1,11 @@
+job_id,job_title,required_skills,experience,education,description
+1,Python Developer,"Python|Django|SQL|Git|FastAPI",1,Bachelor's Degree,Develop backend applications using Python and Django
+2,Data Scientist,"Python|Machine Learning|Statistics|Pandas|NumPy|SQL",2,Bachelor's Degree,Analyze datasets and develop predictive machine learning models
+3,Machine Learning Engineer,"Python|Machine Learning|Deep Learning|TensorFlow|Scikit-learn",2,Bachelor's Degree,Develop and deploy machine learning models
+4,AI Engineer,"Python|NLP|Deep Learning|TensorFlow|PyTorch|LLM",2,Bachelor's Degree,Build AI applications using machine learning and generative AI
+5,Data Analyst,"Python|SQL|Excel|Power BI|Statistics|Pandas",1,Bachelor's Degree,Analyze business data and create interactive dashboards
+6,Frontend Developer,"HTML|CSS|JavaScript|React|Bootstrap",1,Bachelor's Degree,Develop responsive and interactive web applications
+7,Backend Developer,"Python|Java|SQL|PostgreSQL|FastAPI|Django",2,Bachelor's Degree,Build scalable backend systems and REST APIs
+8,Cloud Engineer,"AWS|Azure|Docker|Linux|Kubernetes",2,Bachelor's Degree,Manage cloud infrastructure and deployment
+9,NLP Engineer,"Python|NLP|Machine Learning|Transformers|Deep Learning",2,Bachelor's Degree,Develop natural language processing applications
+10,Database Administrator,"SQL|PostgreSQL|MySQL|Database Management|Linux",2,Bachelor's Degree,Manage databases and optimize database performance

@@ -1,0 +1,44 @@
+# Project dependencies will be added here.
+requests
+email-validator# Frontend
+streamlit
+
+# Backend and API
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Environment Variables
+python-dotenv
+
+# Authentication
+PyJWT
+pwdlib[argon2]
+email-validator
+
+# File Upload and Processing
+python-multipart
+PyMuPDF
+python-docx
+
+# Machine Learning and NLP
+sentence-transformers
+torch
+scikit-learn
+
+# Data Processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+plotly
+
+# PDF Report Generation
+reportlab
+
+# API Requests
+requests

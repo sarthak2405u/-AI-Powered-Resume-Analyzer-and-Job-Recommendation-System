@@ -1,0 +1,86 @@
+# ==============================
+# Python Virtual Environments
+# ==============================
+venv/
+env/
+.venv/
+ENV/
+
+# ==============================
+# Environment Variables & Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Python Cache Files
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# IDE & Editor Files
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Machine Learning Model Files
+# ==============================
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.h5
+*.keras
+
+# ==============================
+# Temporary & Log Files
+# ==============================
+*.log
+temp/
+tmp/
+*.tmp
+
+# ==============================
+# Operating System Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Testing & Coverage
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# Build Files
+# ==============================
+build/
+dist/
+*.egg-info/
+
+# ==============================
+# Streamlit
+# ==============================
+.streamlit/secrets.toml
+
+# ==============================
+# Database Backups
+# ==============================
+*.sql
+*.dump
+*.bak
